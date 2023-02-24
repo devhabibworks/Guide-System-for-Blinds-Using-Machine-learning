@@ -8,3 +8,6 @@ Also classify colors and finally we provide it with an alarm system or Guide Sys
 To alarm blind if there are any danger objects (which we already trained to recognize).
 
 
+# image of the System
+
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/102364205/221299745-706218df-a3da-43e7-b654-fffb31cb034f.png">
