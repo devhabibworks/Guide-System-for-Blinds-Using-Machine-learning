@@ -13,8 +13,7 @@
 /gradle
 /app/build
 /app/src/main/jniLibs
-/app/src/assets/
-/app/src/main/ml
+
 /captures
 .externalNativeBuild
 .cxx
