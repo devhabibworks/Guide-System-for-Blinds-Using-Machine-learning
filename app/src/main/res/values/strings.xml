@@ -1,0 +1,19 @@
+<resources>
+
+
+    <string name="app_name">دليلي</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="objects"> </string>
+    <string name="colors"> </string>
+    <string name="waking_helper"> </string>
+    <string name="train"> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+</resources>

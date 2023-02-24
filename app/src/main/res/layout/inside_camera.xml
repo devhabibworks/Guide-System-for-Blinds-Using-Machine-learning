@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    tools:context="com.habib.finalproject.TrainActivity"
+    tools:showIn="@layout/train_main">
+
+
+    <Button
+        android:id="@+id/take_picture_button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/custom_button"
+        android:gravity="bottom|center"
+        android:paddingBottom="40dp"
+        android:text="Double Click To Back"
+        android:textAllCaps="false"
+        android:textColor="#FBFBFB"
+        android:textSize="24sp" />
+
+</RelativeLayout>

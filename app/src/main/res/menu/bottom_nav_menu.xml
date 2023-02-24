@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/navigation_waking_helper"
+        android:icon="@drawable/ic_baseline_guid"
+        android:title="@string/waking_helper"
+        android:enabled="true"
+
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="multiply"
+        app:cnb_textColor="@color/white"
+
+        />
+
+    <item
+        android:id="@+id/navigation_object"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="@string/objects"
+        android:enabled="true"
+
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="multiply"
+        app:cnb_textColor="@color/white"
+
+
+        />
+
+    <item
+        android:id="@+id/navigation_colors"
+        android:icon="@drawable/ic_baseline_color_lens_24"
+        android:title="@string/colors"
+
+
+        android:enabled="true"
+
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="multiply"
+
+        app:cnb_textColor="@color/white"
+
+        />
+
+
+
+    <item
+        android:id="@+id/navigation_train"
+        android:icon="@drawable/ic_baseline_model_training_24"
+        android:title="@string/train"
+
+        android:enabled="true"
+
+        app:cnb_iconColor="@color/white"
+        app:cnb_iconTintMode="multiply"
+        app:cnb_textColor="@color/white"
+
+        />
+
+</menu>
